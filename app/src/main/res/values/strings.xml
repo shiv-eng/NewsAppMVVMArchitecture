@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string name="top_headlines">Top Headlines</string>
+
+    <string name="news_sources">News Sources</string>
+    <string name="country">Countries</string>
+    <string name="language">Languages</string>
+    <string name="error_title">Ooops,</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="loading">Loading</string>
+    <string name="language_info">Please select any two language.</string>
+
+</resources>
