@@ -38,13 +38,6 @@ class MainActivity : ComponentActivity() {
         setContent {
             NewsAppTheme {
                 Scaffold(topBar = {
-                    TopAppBar(
-                        colors = TopAppBarDefaults.topAppBarColors(
-                            containerColor = MaterialTheme.colorScheme.primary,
-                            titleContentColor = Color.White,
-                        ),
-                        title = { Text(text = AppConstant.APP_NAME) },
-                    )
                 }) { padding ->
                     Column(
                         modifier = Modifier
